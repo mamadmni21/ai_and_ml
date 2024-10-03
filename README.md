@@ -16,4 +16,4 @@ modelling :
   3. random forest regressor.
 Model Evaluation
 Performance conclusion
-![image](https://github.com/user-attachments/assets/423365be-727d-4a30-901b-b942ab4756e1)
+
